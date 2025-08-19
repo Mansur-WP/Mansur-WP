@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mansur-WP
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently Solidity Language
 - 💞️ I’m looking to collaborate on projects that involve data analysis, machine learning, and software development. I'm open to collaborating with individuals or teams who are passionate about leveraging technology to solve real-world problems and make a positive impact.
 - 📫 How to reach me via WhatsApp 
 - 😄 Pronouns: Ze/Zir
