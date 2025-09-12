@@ -1,7 +1,7 @@
 Hi, I'm Mansur 👋
 
 💻 Beginner Python & Web Developer 
-🌐 Exploring **Networking & Web3 Development 
+🌐 Exploring Networking & Web3 Development 
 🚀 Learning in public, one project at a time  
 
 ---
