@@ -1,13 +1,37 @@
-- 👋 Hi, I’m @Mansur-WP
-- 👀 I’m interested in Coding
-- 🌱 I’m currently Solidity Language
-- 💞️ I’m looking to collaborate on projects that involve data analysis, machine learning, and software development. I'm open to collaborating with individuals or teams who are passionate about leveraging technology to solve real-world problems and make a positive impact.
-- 📫 How to reach me via WhatsApp 
-- 😄 Pronouns: Ze/Zir
-- ⚡ Fun fact: The first computer bug was a real moth! Grace Hopper found it in a computer in 1947, leading to the term "debugging."
-- 
+Hi, I'm Mansur 👋
 
-<!---
-Mansur-WP/Mansur-WP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Beginner Python & Web Developer 
+🌐 Exploring **Networking & Web3 Development 
+🚀 Learning in public, one project at a time  
+
+---
+
+🌱 Currently Learning
+- Python (for networking & backend)
+- Web3 (Solidity, smart contracts)
+- Git & GitHub (version control)
+
+---
+
+🚀 Founder of
+Pixel Studio – a tech startup building modern digital solutions ✨  
+
+---
+
+ 📊 GitHub Stats
+![Mansur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansurnasiribrahim&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansurnasiribrahim&layout=compact&theme=tokyonight)  
+
+---
+
+ 🤲 Beyond Tech
+- Running a charity foundation  
+- Sharing knowledge & growth  
+
+---
+
+📫 Connect with Me
+- [https://www.linkedin.com/in/mansur-85986825a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
+- [https://x.com/mansurnass51?t=Ziu8ywtK7kI8KhU8YVmjGg&s=09] 
+- [https://www.instagram.com/mansurnass?igsh=MW0wb3YybHBnODY0ag==]
