@@ -26,6 +26,6 @@ Pixel Studio – a tech startup building modern digital solutions ✨
 ---
 
 📫 Connect with Me
-- [https://www.linkedin.com/in/mansur-85986825a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)  
-- [https://x.com/mansurnass51?t=Ziu8ywtK7kI8KhU8YVmjGg&s=09] 
-- [https://www.instagram.com/mansurnass?igsh=MW0wb3YybHBnODY0ag==]
+- [https://bit.ly/46dKjh7]
+- [https://bit.ly/3KvJSWN] 
+- [https://bit.ly/3Ke2iLG]
