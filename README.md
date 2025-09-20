@@ -18,12 +18,6 @@ Pixel Studio – a tech startup building modern digital solutions ✨
 
 ---
 
- 📊 GitHub Stats
-![Mansur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansurnasiribrahim&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansurnasiribrahim&layout=compact&theme=tokyonight)  
-
----
 
  🤲 Beyond Tech
 - Running a charity foundation  
